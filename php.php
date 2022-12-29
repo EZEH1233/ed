@@ -14,7 +14,7 @@ $recipient = "kenechukwuezeh527@gmail.com";
 mail($recipient , $subject , $message , $mailheader)
 or die("Error");
 
-
+echo("form submitted")
 
 
 
